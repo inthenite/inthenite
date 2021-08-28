@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @inthenite
-- 👀 I’m interested in unix, linux, cloud, devops
+- 👀 I’m interested in unix, linux, security, cloud, devops
 - 🌱 I’m currently learning cloud, python
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me ...
+- 📫 How to reach me: inthenite.com
 
 <!---
 inthenite/inthenite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
